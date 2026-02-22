@@ -14,37 +14,19 @@ Interested in microservices architecture, Spring ecosystem, search systems, netw
 
 ---
 
-## Projects
+## 🚀 Projects
+## Current Projects
+- 🔎 **[ElephantSearch](github.com/DipuKumar1997/ElephantSearch)** - PostgreSQL vs Elasticsearch search comparison
+- 🎬 **[video-streaming](https://github.com/DipuKumar1997/netflix-video-streaming)** - Spring Boot microservice for JWT auth and HLS video delivery
+- 💬 **[SocketChatApp](https://github.com/DipuKumar1997/SocketChatApp)** - Multithreaded TCP client/server chat using low-level sockets.
+- 🌐 **[http-server](https://github.com/DipuKumar1997/Peekaboo)** - Custom HTTP server exploring protocol parsing and request flow.
+ 
+- 📡 **[wifi-direct-p2p](https://github.com/DipuKumar1997/http-server)** - Peer-to-peer communication without centralized routing.
+- ✉️ **[custom-email-verification](https://github.com/DipuKumar1997/custom-email-verification)** -Token-based backend verification lifecycle
+- 🖼 **[ppm-image-viewer](https://github.com/DipuKumar1997/ppm-image-viewer)** - Binary image parsing and rendering fundamentals
+- 🛠 **[KILL_PORT](https://github.com/DipuKumar1997/KILL_PORT)** - Utility to terminate processes bound to network ports
 
-**ElephantSearch** — Async comparison of PostgreSQL vs Elasticsearch query behavior and latency
-https://github.com/DipuKumar1997/ElephantSearch
-
-**Video Streaming Microservice** — Spring Boot microservice supporting JWT auth, byte-range streaming, and HLS delivery
-https://github.com/DipuKumar1997/netflix-video-streaming
-
-**SocketChatApp** — Multithreaded TCP client/server messaging system using low-level socket programming
-https://github.com/DipuKumar1997/SocketChatApp
-
-**Zenforce** — MERN application exploring authentication, authorization, and protected routing
-https://github.com/DipuKumar1997/zenforce
-
-**HTTP Server** — Custom server implementation to understand request parsing and protocol flow
-https://github.com/DipuKumar1997/http-server
-
-**WiFi Direct P2P** — Peer-to-peer communication experiment without centralized routing
-https://github.com/DipuKumar1997/wifi-direct-p2p
-
-**Email Verification Flow** — Token-based backend verification lifecycle implementation
-https://github.com/DipuKumar1997/custom-email-verification
-
-**PPM Image Viewer** — Binary image parsing and rendering fundamentals
-https://github.com/DipuKumar1997/ppm-image-viewer
-
-**Port Kill Utility** — Developer tool to terminate processes bound to network ports
-https://github.com/DipuKumar1997/KILL_PORT
-
----
-
+- 
 ## Tech Focus
 
 Java • Spring Framework • Spring Boot • Microservices
