@@ -28,7 +28,7 @@ Interested in microservices architecture, Spring ecosystem, search systems, netw
 ## Tech Focus
 
 Java • Spring Framework • Spring Boot • Microservices
-REST APIs • JWT • Docker
+REST APIs • Authentication & Authorization • Docker
 MySQL • MongoDB • Elasticsearch
 Linux • Git
 
