@@ -28,7 +28,7 @@ Interested in microservices architecture, Spring ecosystem, search systems, netw
 
 Java • Spring Framework • Spring Boot • Microservices
 REST APIs • Authentication & Authorization • Docker
-MySQL • MongoDB • Elasticsearch
+MySQL • MongoDB • Elasticsearch • Kafka • Kubernetes 
 Linux • Git
 
 ---
