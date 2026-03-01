@@ -15,7 +15,7 @@ Interested in microservices architecture, Spring ecosystem, search systems, netw
 ---
 
 ## 🚀 Current Projects
-- 🔎 **[ElephantSearch](https://github.com/DipuKumar1997/ElephantSearch)** - PostgreSQL vs Elasticsearch search comparison
+- 🔎 **[ElephantSearch](https://github.com/DipuKumar1997/ElephantSearch)** - PostgreSQL vs Elasticsearch search comparison  
 - 🎬 **[video-streaming](https://github.com/DipuKumar1997/netflix-video-streaming)** - Spring Boot microservice for JWT auth and HLS video delivery
 - 💬 **[SocketChatApp](https://github.com/DipuKumar1997/SocketChatApp)** - Multithreaded TCP client/server chat using low-level sockets.
 - 🌐 **[http-server](https://github.com/DipuKumar1997/Peekaboo)** - Custom HTTP server exploring protocol parsing and request flow.
@@ -24,7 +24,6 @@ Interested in microservices architecture, Spring ecosystem, search systems, netw
 - 🖼 **[ppm-image-viewer](https://github.com/DipuKumar1997/ppm-image-viewer)** - Binary image parsing and rendering fundamentals
 - 🛠 **[KILL_PORT](https://github.com/DipuKumar1997/KILL_PORT)** - Utility to terminate processes bound to network ports
 
-- 
 ## Tech Focus
 
 Java • Spring Framework • Spring Boot • Microservices
