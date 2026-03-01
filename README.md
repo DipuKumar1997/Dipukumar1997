@@ -18,7 +18,7 @@ Interested in microservices architecture, Spring ecosystem, search systems, netw
 - 🔎 **[ElephantSearch](https://github.com/DipuKumar1997/ElephantSearch)** - PostgreSQL vs Elasticsearch search comparison  
 - 🎬 **[video-streaming](https://github.com/DipuKumar1997/netflix-video-streaming)** - Spring Boot microservice for JWT auth and HLS video delivery
 - 💬 **[SocketChatApp](https://github.com/DipuKumar1997/SocketChatApp)** - Multithreaded TCP client/server chat using low-level sockets.
-- 🌐 **[http-server](https://github.com/DipuKumar1997/http-serve)** - Custom HTTP server exploring protocol parsing and request flow.
+- 🌐 **[http-server](https://github.com/DipuKumar1997/http-server)** - Custom HTTP server exploring protocol parsing and request flow.
 - 📡 **[wifi-direct-p2p](https://github.com/DipuKumar1997/wifi-direct-p2p)** - Peer-to-peer communication without centralized routing.
 - ✉️ **[custom-email-verification](https://github.com/DipuKumar1997/custom-email-verification)** -Token-based backend verification lifecycle
 - 🖼 **[ppm-image-viewer](https://github.com/DipuKumar1997/ppm-image-viewer)** - Binary image parsing and rendering fundamentals
