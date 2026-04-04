@@ -15,15 +15,16 @@ Interested in microservices architecture, Spring ecosystem, search systems, netw
 ---
 
 ## 🚀 Current Projects
-- 🔎 **[ElephantSearch](https://github.com/DipuKumar1997/ElephantSearch)** - PostgreSQL vs Elasticsearch search comparison  
+- 🔎 **[ElephantSearch](https://github.com/DipuKumar1997/ElephantSearch)** - PostgreSQL vs. Elasticsearch: The ultimate search benchmark.
 - 🎬 **[video-streaming](https://github.com/DipuKumar1997/netflix-video-streaming)** - Spring Boot microservice for JWT auth and HLS video delivery
-- **[Map-impl](https://github.com/DipuKumar1997/mapDS-implementation-in-c)** - Map ds impl using djb2 hashing algos 
+- **[Map-impl](https://github.com/DipuKumar1997/mapDS-implementation-in-c)** - Raw C. djb2 hashing. High-performance Map implementation.
+-  **[queue-parent]( https://github.com/DipuKumar1997/queue-parent)** - Microservices backbone for strictly private-to-private messaging.
 - 💬 **[SocketChatApp](https://github.com/DipuKumar1997/SocketChatApp)** - Multithreaded TCP client/server chat using low-level sockets.
-- 🌐 **[http-server](https://github.com/DipuKumar1997/http-server)** - Custom HTTP server exploring protocol parsing and request flow.
+- 🌐 **[http-server](https://github.com/DipuKumar1997/http-server)** - The web from scratch. RFC-compliant custom HTTP protocol parser.
 - 📡 **[wifi-direct-p2p](https://github.com/DipuKumar1997/wifi-direct-p2p)** - Peer-to-peer communication without centralized routing.
-- ✉️ **[custom-email-verification](https://github.com/DipuKumar1997/custom-email-verification)** -Token-based backend verification lifecycle
-- 🖼 **[ppm-image-viewer](https://github.com/DipuKumar1997/ppm-image-viewer)** - Binary image parsing and rendering fundamentals
-- 🛠 **[KILL_PORT](https://github.com/DipuKumar1997/KILL_PORT)** - Utility to terminate processes bound to network ports
+- ✉️ **[custom-email-verification](https://github.com/DipuKumar1997/custom-email-verification)** -Hardened token-based security for the backend entry lifecycle.
+- 🖼 **[ppm-image-viewer](https://github.com/DipuKumar1997/ppm-image-viewer)** - Binary image parsing. Bringing raw PPM pixel data to life.
+- 🛠 **[KILL_PORT](https://github.com/DipuKumar1997/KILL_PORT)** - Reclaim your environment. Instantly terminate stubborn port-bound processes
 
 ## Tech Focus
 
